@@ -52,7 +52,7 @@
 <table><tr><td><details>
   <summary>Contact Me!</summary>
 
--  <kbd>[Linkedin](www.linkedin.com/in/damian-romero-dev)</kbd>
+-  <kbd>[Linkedin](https://www.linkedin.com/in/damian-romero-dev)</kbd>
 -  <kbd>[GitHub](https://github.com/d-romero-dev)</kbd>
 -  <kbd><a href="mailto:d.romero.dev.contact@gmail.com?Subject=Contact%20Request%20">Email</a></kbd>
 
