@@ -1,9 +1,9 @@
-> [!NOTE]  
-> - 👋 Hey there! I'm Damián Romero.
-> 
->  Front-End Web Developer who is always striving to improve and learn new things.
-> 
->  Let's build something awesome together! 🚀
+
+> # 👋 Hey there! I'm Damián Romero.
+
+  Front-End Web Developer who is always striving to improve and learn new things.
+
+  Let's build something awesome together! 🚀
 
 
 
