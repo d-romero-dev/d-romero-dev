@@ -63,14 +63,14 @@ PowerShell. Microsoft Active Directory. Microsoft Excel. Microsoft Office. Gmail
 </td></tr></table>
 
 ---------------------------------------------------------------------------------------------------------------------------------------
-⚡ **Fun fact:**
+⚡ **Fun Fact:**
 
 ...
 >
-  I'm a watch enthusiast; I have a particular taste when it comes to wristwatches,
-  and on every occasion, I strive to match the color of my watch (dial, bezel, crystal, and armix)
-  with my outfit. A straightforward yet unique detail that adds a touch of personality to my look
-  and makes me feel confident throughout the day. ⌚​
+  *I'm a watch enthusiast; I have a particular taste when it comes to wristwatches,*
+  *and on every occasion, I strive to match the color of my watch (dial, bezel, crystal, and armix)*
+  *with my outfit. A straightforward yet unique detail that adds a touch of personality to my look*
+  *and makes me feel confident throughout the day.* ⌚​
 >
 ...
 
