@@ -23,11 +23,11 @@
 > 
 
 > [!IMPORTANT]  
-> - 🌱 I’m currently learning:
+> - 🌱 I’m a dedicated continuous learner, consistently striving for personal and professional development.
 >
->> React, Angular JS, ASP.NET, .NET Development.
+>> Currently seeking opportunities to collaborate on the creation of outstanding web experiences.
 >
-> - 💞️ I’m looking to collaborate on crafting exceptional web experiences !
+> - 💞️ I possess a strong capacity for independent work while also excelling in collaborative team environments !
 >
 > 
 
@@ -38,7 +38,7 @@
   
 
   
-     ​⭐​  Plus, engaging projects with an impact on real-world scenarios, on the hunt
+     ​⭐​   Plus, my objectives are engaging projects with an impact on real-world scenarios, on the hunt
           of improving people's lives through technology.
   >
 
