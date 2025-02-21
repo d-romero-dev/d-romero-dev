@@ -1,7 +1,7 @@
 
 > # 👋 Hey there! I'm Damián Romero.
 
-  Front-End Web Developer who is always striving to improve and learn new things.
+  Front-End Web Developer and IT Analyst, who is always striving to improve and learn new things.
 
   Let's build something awesome together! 🚀
 
@@ -25,11 +25,14 @@
 > [!IMPORTANT]  
 > - 🌱 I’m a dedicated continuous learner, consistently striving for personal and professional development.
 >
->> Currently seeking opportunities to collaborate on the creation of outstanding web experiences.
+>> Soft Skills:
+>>> Dedicated team player with a strong sense of responsibility and a keen analytical mind. Committed to excellence through determination and meticulous attention to detail.
 >
 > - 💞️ I possess a strong capacity for independent work while also excelling in collaborative team environments !
 >
-> 
+>> Technical/Hard Skills:
+>>> JavaScript, HTML, CSS, Bootstrap, Git, GitHub. Testing. Microsoft Intune. Windows
+PowerShell. Microsoft Active Directory. Microsoft Excel. Microsoft Office. Gmail. Google Drive. Suite Google. 
 
 
   
