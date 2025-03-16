@@ -1,7 +1,7 @@
 ![Banner](https://github.com/d-romero-dev/d-romero-dev/blob/82ac9b6ca7e8cca661ae320d53cf474763947195/d-romero.dev%20GitHub%20Banner%20Modern%2C%20Pro%20Illustrative%20Ai%20Technology%20Banner..png
 )
 
-> # 👋 Hey there! I'm Damián Romero.
+> # 👋 *Hey there! I'm Damián Romero.*
 
   Front-End Web Developer and IT Analyst, who is always striving to improve and learn new things.
 
@@ -60,6 +60,7 @@ PowerShell. Microsoft Active Directory. Microsoft Excel. Microsoft Office. Gmail
 -  <kbd>[Linkedin](https://www.linkedin.com/in/damian-romero-dev)</kbd>
 -  <kbd>[GitHub](https://github.com/d-romero-dev)</kbd>
 -  <kbd><a href="mailto:d.romero.dev.contact@gmail.com?Subject=Contact%20Request%20From%20Your%20GitHub%20Profile!">Email</a></kbd>
+-  <kbd>[Portfolio Website](https://d-romero-dev.github.io/Web_Portfolio/)</kbd>
 
 </details>
 </td></tr></table>
