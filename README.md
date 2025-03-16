@@ -1,3 +1,5 @@
+![Banner](https://github.com/d-romero-dev/d-romero-dev/blob/82ac9b6ca7e8cca661ae320d53cf474763947195/d-romero.dev%20GitHub%20Banner%20Modern%2C%20Pro%20Illustrative%20Ai%20Technology%20Banner..png
+)
 
 > # 👋 Hey there! I'm Damián Romero.
 
